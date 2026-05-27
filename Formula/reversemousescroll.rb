@@ -1,8 +1,8 @@
 class Reversemousescroll < Formula
   desc "Reverse mouse scroll direction independently from trackpad on macOS"
   homepage "https://github.com/CyrusZhang23/ReverseMouseScroll"
-  url "https://github.com/CyrusZhang23/ReverseMouseScroll/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "9ff31e05608bf579c18b94fdf1bc17234967f28b4b7fe1a3f2ae4da6907a4a20"
+  url "https://github.com/CyrusZhang23/ReverseMouseScroll/archive/refs/tags/v1.1.1.tar.gz"
+  sha256 "235b592be69de1ff3c921867e538529ae6e389c887020d151be2a1c688f74dc0"
   license "MIT"
 
   depends_on :macos
